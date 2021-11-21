@@ -10,10 +10,12 @@
 <!-- [![Top Langs]() -->
 <div>
    <h2>Essas são algumas tecnologias as quais já tenho alguma experiencia.</h2>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" heigth='28px' width="88px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth='28px' width="88px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth='28px' width="88px" />   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" heigth='50px' width="50px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth='50px' width="50px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth='50px' width="50px" />   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" heigth='50px' width="50px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" heigth='50px' width="50px" />
+
 </div>
 <div>
   <h2>Aqui estão algumas tecnologias que tenho um breve conhecimento</h2>
