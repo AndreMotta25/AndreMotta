@@ -1,5 +1,6 @@
 # AndreMotta
 <h2>Ola! eu sou o André, e sou programador front-end🚀</h2>
+<p>Atualmente, estou estudando para ser um <b>desenvolvedor web full stack👓🎓</b></p>
 <div>
   <a href="https://github.com/AndreMotta25">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreMotta25&show_icons=true&theme=radical&count_private=true" height="180em"/>
