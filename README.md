@@ -1,6 +1,6 @@
 
-<h2>Ola! eu sou o André, e sou programador front-end🚀</h2>
-<h3><p>Atualmente, estou estudando para ser um <b>desenvolvedor web full stack👓🎓</b></p></h3>
+<h2>Olá! eu sou o André, e sou programador Full-Stack🚀</h2>
+
 <div align="center" style="margin: 0 auto;">
   <a href="https://github.com/AndreMotta25">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreMotta25&show_icons=true&theme=radical&count_private=true" height="180em"/>
@@ -23,9 +23,9 @@
 
 </div>
 <div>
-  <h3>Aqui estão algumas tecnologias que tenho um breve conhecimento</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" heigth='50px' width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" heigth='50px' width="50px"/>
+  <h3>Aqui estão algumas tecnologias que venho estudando</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth='50px' width="50px"/>
+
 
 </div>
 <div>
