@@ -18,13 +18,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth='50px' width="50px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  heigth='50px' width="50px" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" heigth='50px' width="50px"/>
-
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth='50px' width="50px"/>
           
 
 </div>
 <div>
-  <h3>Aqui estão algumas tecnologias que venho estudando</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth='50px' width="50px"/>
+
 
 
 </div>
