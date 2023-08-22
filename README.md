@@ -3,8 +3,8 @@
 
 <div align="center" style="margin: 0 auto;">
   <a href="https://github.com/AndreMotta25">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreMotta25&show_icons=true&theme=radical&count_private=true" height="180em"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMotta25&hide=php&theme=radical" height="180em"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndreMotta25&show_icons=true&theme=radical&count_private=true" height="180em"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreMotta25&hide=php&theme=radical" height="180em"/>
   </a>
 </div>
 <!-- ![Anurag's GitHub stats]() -->
